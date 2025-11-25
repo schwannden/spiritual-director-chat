@@ -1,0 +1,13 @@
+# BOOK THREE: 
+
+## Chapter 59: All Hope And Trust Are To Be Fixed In God Alone
+
+THE DISCIPLE  
+ 
+WHAT, Lord, is the trust which I have in th is life, or what is my greatest comfort among all the things that appear under heaven? Is  it not You, O Lord, my God, Whose mercies are without number? Where have I ever  fared well but fo r You? Or how could things go badly when You were present? I had rather be poor for Your sake than rich without You. I prefer rather  to wander on the earth with You than to possess heaven without You. Where You are there is heaven, and where Y ou are not are death and hell. 
+You are my desire and theref ore I must cry after You and sigh and pray. In none can I fully trust to help me in my necessities, but  in You alone, my God. You are my hope. 
+You are my confidence. You are my c onsoler, most faithful in every need. 
+All seek their own interests. You, however , place my salvation and my profit first, and turn all things to my good. Even though exposing me to various temptations and hardships, You Who are accustomed to prov e Your loved ones in a thousand ways, order all this for my good. You ought not to be loved or praised less in this trial than if You had filled me with heavenly consolations. 
+In You, therefore, O Lord God, I place all my hope and my refuge. On You I cast all my troubles and anguish, because whatever  I have outside of You I find to be weak and unstable. It will not serve me to have many friends, nor will powerful helpers be able to assist me, nor prudent advisers to give  useful answers, nor the books of learned men to console, nor any precious substance to win my freedom, nor any  place, secret and beautiful though it be, to shelte r me, if You Yourself do no t assist, comfort, console, instruct, and guard me. For all things whic h seem to be for our peace and happiness are nothing when You are absent, and truly confer no happiness. 
+You, indeed, are the fountain of all good, the height of life, the depth of all that can be spoken. To trust in You above all th ings is the strongest comfort of Your servants. 
+My God, the Father of merc ies, to You I look, in You I trust. Bless and sanctify my soul with heavenly benediction , so that it may become Your holy dwelling and the seat of Your eternal glory. And in this temp le of Your dignity let nothing be found that might offend Your majesty. In Your gr eat goodness, and in the multitude of Your mercies, look upon me and listen to the prayer of Your poor servant exiled from You in the region of the shadow of death. Protect and preserve the soul of Your poor servant among the many dangers of  this corruptible life, and dire ct him by Your accompanying grace, through the ways of peace, to  the land of everlasting light.

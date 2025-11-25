@@ -1,0 +1,11 @@
+# BOOK THREE: 
+
+## Chapter 35: There Is No Security From Temptation In This Life
+
+THE VOICE OF CHRIST  
+ 
+MY CHILD, in this life you are never safe , and as long as you live the weapons of the spirit will ever be necessary to you. Y ou dwell among enemies. You are subject to attack from the right and the left. If, theref ore, you do not guard yourself from every quarter with the shield of patience,  you will not remain long unscathed. 
+Moreover, if you do not steadily set your  heart on Me, with a firm will to suffer everything for My sake, you will not be able to bear the heat of this battle or to win the crown of the blessed. You ought, therefore, to pass through all these things bravely and to oppose a strong hand to whatever stands in  your way. For to him who triumphs heavenly bread is given, while for him who is too lazy to fight there remains much misery. 
+If you look for rest in this life, how wil l you attain to everlasting rest? Dispose yourself, then, not for much rest but for great patience. Seek true peace, not on earth but in heaven; not in men or in other creatures but in G od alone. For love of God you should undergo all things cheerfully, all la bors and sorrows, temptations and trials, anxieties, weaknesses, necessities, injuries, slanders, rebukes, humiliations, confusions, corrections, and contempt. For these are helps to virtue. These are the trials of Christ's recruit. These form the heavenly cr own. For a little brief labor I will give an everlasting crown, and for passing conf usion, glory that is eternal. 
+Do you think that you will always have spir itual consolations as you desire? My saints did not always have them. Instead, t hey had many afflictions, temptations of various kinds, and great desolation. Yet they  bore them all patiently. They placed their confidence in God rather than in themselves, k nowing that the sufferings of this life are not worthy to be compared with the glory that is to come. And you -- do you wish to have at once that which others have sca rcely obtained after m any tears and great labors? 
+Wait for the Lord, act bravely, and have c ourage. Do not lose trust. Do not turn back but devote your body and soul constantly to God's glory. I will reward you most plentifully. I will be with y ou in every tribulation.

@@ -1,0 +1,13 @@
+# BOOK FOUR: 
+
+## Chapter 15: The Grace Of Devotion Is Acquired Through Humility And Self-Denial
+
+THE VOICE OF CHRIST  
+ 
+YOU must seek earnestly t he grace of devotion, ask fo r it fervently, await it patiently and hopefully, receive it gratefully, guard it humbly,  cooperate with it carefully and leave to God, when it comes, the l ength and manner of the heavenly visitation. 
+When you feel little or no inward devotion, you should especially humiliate yourself, but do not become too dejected or unreasonably sad. In one short moment God often gives what He has long denied. At  times He grants at the end what He has denied from the beginning of prayer. If grace were always given at once, or were present at our beck and call, it  would not be well taken by weak humankind. Therefore, with good hope and humble patience aw ait the grace of devotion.
+
+When it is not given, or for some unknow n reason is taken away, blame yourself and your sins. Sometimes it is a small matter that hinders grace and hides it, if, indeed, that which prevents so great a good may be called little rather than great. But if you remove this hindrance, be it great or sma ll, and if you conquer it  perfectly, you shall have what you ask. As soon as you have given yourself to God wit h all your heart and seek neither this nor that for your ow n pleasure and purpose, but place yourself completely in His charge, you shall find yourself at peace, united with Him, because nothing will be so sweet, nothing will please you so much as the good pleasure of His will. 
+Anyone, therefore, who shall with simplicity of heart direct his intention to God and free himself from all inordi nate love or dislike for any creature will be most fit to receive grace and will be worthy of the gift of devotion. For wher e the Lord finds the vessel empty He pours down His blessing. 
+So also the more perfectly a man renounces  things of this world, and the more completely he dies to himself through contempt  of self, the more quickly this great grace comes to him, the more plentifully it ent ers in, and the higher it  uplifts the free heart. 
+Then shall he see and abound, then shall his heart marvel and be enlarged within him, because the Hand of  the Lord is with him and in the hollow of that Hand he has placed himself forever. Thus shall t he man be blessed who seeks God with all his heart and has not regarded his soul in vain. Su ch a one, receiving the Holy Eucharist, merits the grace of divine union because he looks not on his own thoughts, nor to his own comfort, but above all devotion and consolation to the glor y and honor of God.

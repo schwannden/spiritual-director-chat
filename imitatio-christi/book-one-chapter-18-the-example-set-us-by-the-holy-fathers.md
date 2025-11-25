@@ -1,0 +1,15 @@
+# BOOK ONE: 
+
+## Chapter 18: The Example Set Us By The Holy Fathers
+
+CONSIDER the lively examples set us by  the saints, who possessed the light of true perfection and religion, and you will see how little, how nearly nothing, we do.
+
+What, alas, is our life, com pared with theirs? The saints and friends of Christ served the Lord in hunger and thirst, in cold and nakedness,  in work and fatigue, in vigils and fasts, in prayers and holy meditations, in persecutions and many afflictions. How many and severe were the trials they suffered -- the A postles, martyrs, confessors, virgins, and all the rest who willed to follow in the footsteps  of Christ! They hated their lives on earth that they might hav e life in eternity. 
+How strict and detached were  the lives the holy hermits led in the desert! What long and grave temptations they suffered! Ho w often were they beset by the enemy! 
+What frequent and ardent prayers they offered to God! What rigorous fasts they observed! How great their zeal and their love for spiritual perfection! How brave the fight they waged to master their evil habits! What pure and straightforward purpose they showed toward God! By day t hey labored and by night they spent themselves in long prayers. Even at work they di d not cease from mental prayer. They used all their time profitably; every hour seemed too short for serving God,  and in the great sweetness of contemplation, they for got even their bodily needs. 
+They renounced all riches, dignities, honors, friends, and associates. They desired nothing of the world. They scarcely a llowed themselves the necessities of life, and the service of the body, even when necessa ry, was irksome to them. They were poor in earthly things but rich in grace and virtue. Outwardly destitute, inwardly they were full of grace and divine consolation. St rangers to the world, they were close and intimate friends of God. To themselves  they seemed as nothing, and they were despised by the world, but in  the eyes of God they were precious and beloved. They lived in true humility and simple obedience; they  walked in charity and patience, making progress daily on the pathway of spiritual  life and obtaining great favor with God. 
+They were given as an example for all re ligious, and their power  to stimulate us to perfection ought to be greater  than that of the lukewarm  to tempt us to laxity. 
+How great was the fervor of all religious in  the beginning of thei r holy institution! 
+How great their devotion in prayer and their ri valry for virtue! What splendid discipline flourished among them! What great  reverence and obedience in all things under the rule of a superior! The footsteps they left behind still bear witness that they indeed were holy and perfect men who fought bravely and conquered the world. 
+Today, he who is not a transgressor and who can bear patiently the duties which he has taken upon himself is considered great. How lukewarm and negligent we are! 
+We lose our original fervor very quickl y and we even become weary of life from laziness! Do not you, who have seen so many examples of the devout, fall asleep in the pursuit of virtue!
