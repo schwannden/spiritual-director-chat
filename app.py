@@ -13,7 +13,6 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
-from chromadb.config import Settings
 
 load_dotenv()
 
@@ -40,6 +39,7 @@ RESPONSE_LENGTH_CONFIG = {
   "medium": {"approx_chars": 800},
   "long": {"approx_chars": 1200},
 }
+
 
 def build_chroma_client() -> chromadb.ClientAPI:
   # Force the Cloud client to use the v2 REST path over HTTPS.
@@ -157,10 +157,7 @@ def normalize_collection_keys(selected: Sequence[str] | None) -> list[str]:
 
 def voice_for_collections(collection_keys: Sequence[str]) -> str:
   if set(collection_keys) == {"on-living-well", "imitatio-christi"}:
-    return (
-      "Blend the warmth and pastoral cadence of Eugene Peterson with the "
-      "devotional humility of Thomas à Kempis."
-    )
+    return "Blend the warmth and pastoral cadence of Eugene Peterson with the devotional humility of Thomas à Kempis."
   if collection_keys == ["on-living-well"]:
     return "Write with the conversational, pastoral voice of Eugene Peterson."
   if collection_keys == ["imitatio-christi"]:
@@ -226,11 +223,7 @@ def query_collections(query_text: str, collection_keys: Sequence[str], top_k: in
         }
       )
 
-  hits.sort(
-    key=lambda item: item["distance"]
-    if isinstance(item.get("distance"), (int, float))
-    else float("inf")
-  )
+  hits.sort(key=lambda item: item["distance"] if isinstance(item.get("distance"), (int, float)) else float("inf"))
 
   return hits[:top_k]
 
@@ -312,8 +305,7 @@ def build_messages(
       {
         "role": "system",
         "content": (
-          "Use the language of the latest user message shown below for your reply. "
-          f"Latest user message: {latest_user}"
+          f"Use the language of the latest user message shown below for your reply. Latest user message: {latest_user}"
         ),
       }
     )

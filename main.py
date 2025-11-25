@@ -6,7 +6,6 @@ from pathlib import Path
 from typing import Iterable
 
 import chromadb
-from chromadb.config import Settings
 from dotenv import load_dotenv
 
 load_dotenv()

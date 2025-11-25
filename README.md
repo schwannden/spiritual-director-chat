@@ -35,6 +35,10 @@ source .venv/bin/activate  # optional; `uv run` activates automatically
 cp .env.example .env       # populate keys
 uv run python main.py      # upload documents
 uv run uvicorn app:app --reload
+
+## Development tooling
+- Install dev dependencies and Git hooks: `uv sync && uv run pre-commit install`
+- Run the full suite locally: `uv run pre-commit run --all-files`
 ```
 
 ## Project layout
